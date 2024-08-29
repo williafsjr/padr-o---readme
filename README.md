@@ -1,5 +1,5 @@
 <p width="100%" align="center">
-    <img src="./image/U5fpsLxD_200x200.png" width="600px">
+    <img src="./image/U5fpsLxD_200x2002.png" width="600px">
 </p>
 
 <h1 id="descricaoprojeto" align="center">Padrão README</h1>
@@ -16,7 +16,7 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 
 
-![What](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge) <br>(11) 97446-0353 Reclame aqui
+![What](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge) <br><strong>(11) 97446-0353 Reclame aqui
 <br>
 
 <!--## Tabela de Conteúdo
